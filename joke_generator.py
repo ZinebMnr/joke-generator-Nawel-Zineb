@@ -4,7 +4,8 @@ import random
 jokes = [
     "Pourquoi les développeurs préfèrent le mode sombre ? Parce que la lumière attire les bugs !",
     "Combien de développeurs faut-il pour changer une ampoule ? Aucun, c'est un problème hardware.",
-    "Pourquoi les développeurs Java portent des lunettes ? Parce qu'ils ne peuvent pas C# !"
+    "Pourquoi les développeurs Java portent des lunettes ? Parce qu'ils ne peuvent pas C# !",
+    "ff"
 ]
 
 def print_random_joke():
